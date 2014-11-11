@@ -1,6 +1,7 @@
 # three.randompoints
 
-Port of THREE.GeometryUtils operations with random points to commonjs
+Port of [THREE.GeometryUtils](https://github.com/mrdoob/three.js/blob/master/examples/js/utils/GeometryUtils.js)
+operations with random points into commonjs
 
 # install
 
