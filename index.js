@@ -1,3 +1,3 @@
-module.exports.randomPointInTriangle = require('./lib/inTriangle.js');
-module.exports.randomPointInFace = require('./lib/inFace.js');
-module.exports.randomPointInTriangle = require('./lib/inGeometry.js');
+module.exports.inTriangle = require('./lib/inTriangle.js');
+module.exports.inFace = require('./lib/inFace.js');
+module.exports.inGeometry = require('./lib/inGeometry.js');
